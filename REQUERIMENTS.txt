@@ -1,0 +1,9 @@
+SpeechRecognition
+playsound==1.2.2
+gTTS
+Unidecode
+pytube
+psutil 
+beautifulsoup4
+pywhatkit
+

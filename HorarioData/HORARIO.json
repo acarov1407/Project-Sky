@@ -1,0 +1,57 @@
+{
+  "0": 0,
+  "SM4": {
+    "ASIGNATURA": "Matem\u00e1ticas discretas I",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Monday",
+    "HOUR": "14:00"
+  },
+  "ST3": {
+    "ASIGNATURA": "Bases de datos",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Tuesday",
+    "HOUR": "11:00"
+  },
+  "ST5": {
+    "ASIGNATURA": "Estructuras de datos",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Tuesday",
+    "HOUR": "16:00"
+  },
+  "SW4": {
+    "ASIGNATURA": "Matem\u00e1ticas discretas I",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Wednesday",
+    "HOUR": "14:00"
+  },
+  "STH3": {
+    "ASIGNATURA": "Bases de datos",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Thursday",
+    "HOUR": "11:00"
+  },
+  "STH5": {
+    "ASIGNATURA": "Estructuras de datos",
+    "CODIGO": "",
+    "EDIFICIO": "",
+    "SALON": "",
+    "PROFESOR": "",
+    "DIA": "Thursday",
+    "HOUR": "16:00"
+  }
+}

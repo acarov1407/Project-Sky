@@ -1,0 +1,41 @@
+{
+"Monday 07:00" : "SM1",
+"Monday 09:00" : "SM2",
+"Monday 11:00" : "SM3",
+"Monday 14:00" : "SM4",
+"Monday 16:00" : "SM5",
+"Monday 18:00" : "SM6",
+"Monday 20:00" : "SM7",
+
+"Tuesday 07:00" : "ST1",
+"Tuesday 09:00" : "ST2",
+"Tuesday 11:00" : "ST3",
+"Tuesday 14:00" : "ST4",
+"Tuesday 16:00" : "ST5",
+"Tuesday 18:00" : "ST6",
+"Tuesday 20:00" : "ST7",
+
+"Wednesday 07:00" : "SW1",
+"Wednesday 09:00" : "SW2",
+"Wednesday 11:00" : "SW3",
+"Wednesday 14:00" : "SW4",
+"Wednesday 16:00" : "SW5",
+"Wednesday 18:00" : "SW6",
+"Wednesday 20:00" : "SW7",
+
+"Thursday 07:00" : "STH1",
+"Thursday 09:00" : "STH2",
+"Thursday 11:00" : "STH3",
+"Thursday 14:00" : "STH4",
+"Thursday 16:00" : "STH5",
+"Thursday 18:00" : "STH6",
+"Thursday 20:00" : "STH7",
+
+"Friday 07:00" : "SF1",
+"Friday 09:00" : "SF2",
+"Friday 11:00" : "SF3",
+"Friday 14:00" : "SF4",
+"Friday 16:00" : "SF5",
+"Friday 18:00" : "SF6",
+"Friday 20:00" : "SF7"
+}
